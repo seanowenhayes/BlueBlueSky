@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "726a0903-ec87-4983-8bf1-d29f79e34e19"
+      }
+    },
+    "owner": "seanowenhayes"
   }
 }
