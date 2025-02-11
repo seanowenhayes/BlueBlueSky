@@ -1,4 +1,4 @@
-appId: com.seanowenhayes.BlueBlueSky # This is an example app id. Replace it with your app id.
+appId: com.seanowenhayes.BlueBlueSky
 ---
 - launchApp
 - assertVisible: "Welcome!"
